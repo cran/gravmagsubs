@@ -1,0 +1,20 @@
+citHeader("To cite gravmagsubs in publications, please use:")
+
+bibentry(bibtype = "Manual",
+ author = personList(
+              as.person("Collin Cronkite-Ratcliff"),
+              as.person("Geoffrey Phelps"),
+              as.person("Daniel Scheirer")
+              ),
+  title = "gravmagsubs: Gravitational and magnetic attraction of 3-D vertical rectangular prisms",
+  publisher = "U.S. Geological Survey",
+  address="Reston, VA",
+  version = "1.0.0",
+  note = "R package",
+  institution = "U.S. Geological Survey",
+  year = 2022,
+  doi = "10.5066/P9HBSPRM",
+  url = "https://doi.org/10.5066/P9HBSPRM",
+  textVersion = "Cronkite-Ratcliff, C., Phelps, G., Scheirer, D., 2022, gravmagsubs: Gravitational and magnetic attraction of 3-D vertical rectangular prisms, U.S. Geological Survey software release, R package, version 1.0.0, https://doi.org/10.5066/P9HBSPRM"
+)
+

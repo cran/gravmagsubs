@@ -1,0 +1,3 @@
+useDynLib(gravmagsubs, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
