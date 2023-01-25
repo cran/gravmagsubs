@@ -1,6 +1,5 @@
 ---
 title: "Demonstrating the gravmagsubs package"
-author: "Collin Cronkite-Ratcliff, Geoffrey Phelps, Daniel Scheirer"
 output: rmarkdown::html_vignette
 #output: rmarkdown::github_document
 #output: pdf_document
@@ -36,7 +35,7 @@ The `gravmagsubs` package must also be installed in order to follow the vignette
 
 # Introducing gravmagsubs
 
-This vignette briefly outlines the main functionality of the `gravmagsubs` package.
+This vignette briefly outlines the main functionality of the `gravmagsubs` package [@CronkiteratcliffEtal2022].
 
 `gravmagsubs` is an R package for calculating the gravitational or magnetic anomaly at a predefined set of locations produced by a predefined set of rectangular prisms. The methods are:
 
